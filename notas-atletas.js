@@ -17,7 +17,8 @@ let atletas = [
   },
 ];
 
-//calcula a média das notas desconsiderando a maior e menor nota
+// calcula a média das notas desconsiderando a maior e menor nota
+// apresenta informações ao usuário
 function calcular(arr) {
   // iterando a matriz
   for (let i = 0; i < arr.length; i++) {
